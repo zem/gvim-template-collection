@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dinbrief>
+	<author>
+		<personname></personname>
+		<address>
+			<street></street>
+			<postalcode></postalcode>
+			<city></city>
+			<phone></phone>
+			<fax></fax>
+			<email></email>
+		</address>
+	</author>
+	<address>
+		<personname></personname>
+		<street></street>
+		<postalcode></postalcode>
+		<city></city>
+		<country></country>
+	</address>
+	<date></date>
+	<betreff></betreff>
+	<anrede>Sehr geehrte Damen und Herren,</anrede>
+	<text>
+		<para></para>
+	</text>
+	<grussformel>Mit freundlichen Grüßen</grussformel>
+</dinbrief>
