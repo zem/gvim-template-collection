@@ -10,6 +10,8 @@
 :an 70.10.10 &Templates.&Docbook.<&chapter> i<chapter><title></title><CR><TAB><para></para><CR></chapter><ESC>-10<BS>a
 :an 70.10.10 &Templates.&Docbook.<&appendix> i<appendix><title></title><CR><TAB><para></para><CR></appendix><ESC>-10<BS>a
 :an 70.10.10 &Templates.&Docbook.<&preface> i<preface><title></title><CR><TAB><para></para><CR></preface><ESC>-10<BS>a
+:an 70.10.10 &Templates.&Docbook.<&programlisting/> i<programlisting><CR></programlisting><ESC>-o
+:an 70.10.10 &Templates.&Docbook.MathML-Equation i<informalequation><math xmlns="http://www.w3.org/1998/Math/MathML"><CR></math></informalequation><ESC>-o
 
 "Docbook Vorlagen
 :an 70.10.10 &Templates.&Docbook.&Template.&Article :r ~/.vim/templates/docbook-article.xml<CR>:set filetype=xml<CR>
