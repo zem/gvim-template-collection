@@ -15,3 +15,9 @@
 
 "Docbook Vorlagen
 :an 70.10.10 &Templates.&LaTeX.&Template.&Report :r ~/.vim/templates/latex-report.tex<CR>:set filetype=tex<CR>
+
+"Math shortcuts
+:an 70.10.10 &Templates.&LaTeX.$Math.&Multiplication i\cdot <ESC>
+:an 70.10.10 &Templates.&LaTeX.$Math.&frac i\frac{}{} <ESC>
+:an 70.10.10 &Templates.&LaTeX.$Math.&sqrt i\sqrt{} <ESC>
+:an 70.10.10 &Templates.&LaTeX.$Math.&vector i\vec{} <ESC>

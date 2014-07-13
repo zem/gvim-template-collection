@@ -1,3 +1,3 @@
-so ~/.vim/Docbook.vim
-so ~/.vim/MathML.vim
-so ~/.vim/LaTeX.vim
+so ~/.vim/menus/Docbook.vim
+so ~/.vim/menus/MathML.vim
+so ~/.vim/menus/LaTeX.vim
